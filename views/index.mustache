@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>calendar</title>
+<script src="/socket.io/socket.io.js"></script>
+<link rel="stylesheet" href="/stylesheets/calendar.css">
+<link rel="stylesheet" href="/stylesheets/modal.css">
+<link rel="stylesheet" href="/stylesheets/client.css">
+</head>
+
+<body>
+
+<div id="myModal" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Новое событие</p>
+    <div id="form" class="form"></div>
+   </div>
+</div>
+
+     <!-- <div id="form" class="form"></div>-->
+
+    <div class="divcalendar">
+        <div id="calendaroverallcontrols">
+        <div id="calendarmonthcontrols">
+        <div id="monthandyear"></div>
+        <div class="arrows">
+            <a id="btnPrev" href="#" title="Previous Month"><span><</span></a>
+            <a id="btnNext" href="#" title="Next Month"><span>></span></a>
+            </div>
+        </div>
+    </div>
+
+<div id="divcalendartable"></div>
+  
+<script src="/javascripts/calendar.js"></script>
+<script src="/javascripts/modal.js"></script>
+<script src="/javascripts/client.js"></script>
+</body>
+</html>

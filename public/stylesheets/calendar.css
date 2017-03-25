@@ -1,0 +1,179 @@
+html, body { margin: 0; background-color: #14141f;
+padding-top: 20px;
+padding-left: 50px;
+padding-right: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;}
+
+table {
+  border-collapse: collapse;
+  /*font-family: Georgia, Times, serif;*/
+}
+
+th {
+  border: 3px solid #14141f;
+  background: #5c5c8a;
+  padding: 10px;
+}
+
+td {
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+  border: 1px solid #5c5c8a;
+  vertical-align: top;
+  
+}
+
+.add {
+  float: right;
+  vertical-align: bottom;
+  background-color: #5c5c8a;
+  border: 1px solid #1e1e2f;
+  color: #1e1e2f;
+  font-style: inherit;
+}
+
+.divcalendar {
+  padding: 20px;
+  float:left;
+
+}
+
+/* Wrapper div. That makes the inner div into an inline element that can be centered with text-align.*/
+/*#calendaroverallcontrols {
+  text-align: center;
+}*/
+
+/* This is a fluid div as width will be changing */
+/*#calendarmonthcontrols {
+  display: inline-block;
+  background-color: #FF0000;
+}*/
+
+
+/*#calendarmonthcontrols > div, #calendarmonthcontrols > a {
+    display: inline-block;
+}    */
+
+#btnPrevYr {
+  text-decoration: none;
+  font-size: 35px;
+  vertical-align: middle;
+  /*background: #00FFCC;*/      
+}
+
+#btnPrev {
+  text-decoration: none;
+  font-size: 35px;
+  margin-left: 20px;
+  vertical-align: middle;
+}  
+.arrows{
+  text-align: right;
+}  
+
+/*
+#monthandyearspan {
+  width: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 20px;
+  vertical-align: middle;
+
+}    */
+
+#monthandyear {
+  vertical-align: middle;
+}
+
+#btnNext {
+  text-decoration: none;
+  font-size: 35px;
+  margin-right: 20px;
+  vertical-align: middle;
+
+}
+
+#divcalendartable {
+  clear: both;
+}
+
+.daysheader {
+  height: auto;
+  text-align: right;
+}
+
+.prevmonthdates {
+  background-color: #14141f;
+  color: #33334d;
+  vertical-align: top;
+}
+
+.nextmonthdates {
+  background-color: #14141f;
+  color: #33334d;
+  vertical-align: top;
+}
+
+.currentmonthdates {
+  background-color: #14141f;
+  color: #a3a3c2;
+  vertical-align: top;
+  padding-bottom: 5px;
+}
+
+.eventContent{
+  height: 75%;
+  padding: 5px;
+ }
+
+.calendatTitle {
+  width: 90%;
+  text-align: left;
+  font-size: 5em;
+  color: #a3a3c2
+}
+
+.event {
+  color: #14141f;
+  margin: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px; 
+  font-size: 20px;
+  
+}
+
+
+.swim {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+  text-align: center;
+  background: #445511;
+  color: #F5F5F5;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.chrono {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+  text-align: center;
+  background: #778899;
+  color: #F5F5F5;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+
+.style-5 input[type="text"] {
+  padding: 10px;
+  border: solid 1px #fff;
+  box-shadow: inset 1px 1px 2px 0 #707070;
+  transition: box-shadow 0.3s;
+}
+.style-5 input[type="text"]:focus,
+.style-5 input[type="text"].focus {
+  box-shadow: inset 1px 1px 2px 0 #c9c9c9;
+}
+

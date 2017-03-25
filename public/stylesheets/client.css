@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.form {
+  width: 100%;
+  height: 100%;
+}
+
+.group_select, .date_start_input, .date_end_input, .description_input{
+  float: left;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #d0d0e1;
+  border: 1px solid #d0d0e1;
+  font-style: inherit;
+}
+
+.group_select{
+  width: 100%;
+}
+
+.date_start_input, .date_end_input, .description_input{
+  width: 95%;
+}
+
+

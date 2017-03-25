@@ -1,0 +1,106 @@
+[
+    {
+        "id_event": 73,
+        "id_group": 2,
+        "date_start": "2017-01-31T21:00:00.000Z",
+        "date_end": "2017-02-28T21:00:00.000Z",
+        "event_description": "Java Script courses",
+        "id_color": "#f6b9b9"
+    },
+    {
+        "id_event": 74,
+        "id_group": 1,
+        "date_start": "2017-02-02T21:00:00.000Z",
+        "date_end": "2017-03-14T21:00:00.000Z",
+        "event_description": "Python courses",
+        "id_color": "#ba57f7"
+    },
+    {
+        "id_event": 98,
+        "id_group": 1,
+        "date_start": "2017-03-02T21:00:00.000Z",
+        "date_end": "2017-03-02T21:00:00.000Z",
+        "event_description": "Meeting",
+        "id_color": "#88a9b1"
+    },
+    {
+        "id_event": 99,
+        "id_group": 1,
+        "date_start": "2017-03-23T21:00:00.000Z",
+        "date_end": "2017-03-30T21:00:00.000Z",
+        "event_description": "Meeting",
+        "id_color": "#88a9b1"
+    },
+    {
+        "id_event": 100,
+        "id_group": 1,
+        "date_start": "2017-03-23T21:00:00.000Z",
+        "date_end": "2017-03-23T21:00:00.000Z",
+        "event_description": "Linux",
+        "id_color": "#d78f8f"
+    },
+    {
+        "id_event": 101,
+        "id_group": 1,
+        "date_start": "2017-03-23T21:00:00.000Z",
+        "date_end": "2017-03-23T21:00:00.000Z",
+        "event_description": "C++",
+        "id_color": "#e48de1"
+    },
+    {
+        "id_event": 103,
+        "id_group": 2,
+        "date_start": "2017-03-19T21:00:00.000Z",
+        "date_end": "2017-03-24T21:00:00.000Z",
+        "event_description": "Additional",
+        "id_color": "#ed8dea"
+    },
+    {
+        "id_event": 104,
+        "id_group": 2,
+        "date_start": "2017-03-19T21:00:00.000Z",
+        "date_end": "2017-03-24T21:00:00.000Z",
+        "event_description": "Additional JS",
+        "id_color": "#bdb6dc"
+    },
+    {
+        "id_event": 105,
+        "id_group": 2,
+        "date_start": "2017-03-20T21:00:00.000Z",
+        "date_end": "2017-03-24T21:00:00.000Z",
+        "event_description": "Linx club",
+        "id_color": "#e07474"
+    },
+    {
+        "id_event": 106,
+        "id_group": 2,
+        "date_start": "2017-03-28T21:00:00.000Z",
+        "date_end": "2017-05-23T21:00:00.000Z",
+        "event_description": "new courses",
+        "id_color": "#a77878"
+    },
+    {
+        "id_event": 107,
+        "id_group": 1,
+        "date_start": "2017-03-12T21:00:00.000Z",
+        "date_end": "2017-03-12T21:00:00.000Z",
+        "event_description": "ggg",
+        "id_color": "#f6083b"
+    },
+    {
+        "id_event": 108,
+        "id_group": 1,
+        "date_start": "2017-03-12T21:00:00.000Z",
+        "date_end": "2017-03-12T21:00:00.000Z",
+        "event_description": "ggg",
+        "id_color": "#f6083b"
+    },
+    {
+        "id_event": 109,
+        "id_group": 1,
+        "date_start": "2017-03-13T21:00:00.000Z",
+        "date_end": "2017-03-13T21:00:00.000Z",
+        "event_description": "hhhhh",
+        "id_color": "#f6083b"
+    }
+]
